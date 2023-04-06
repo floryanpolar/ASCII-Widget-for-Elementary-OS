@@ -1,6 +1,8 @@
 # ASCII-Widget for Elementary OS
 A small ASCII-Widget for Elementary OS
 
+![screenshot](https://user-images.githubusercontent.com/95149903/230503204-ebdb2187-bfb7-4e52-b818-aef29b78786a.png)
+
 ## Usage
 1. Copy the .py file to your favorite place.
 2. Add the new filepath (for example: home/tommy/scripts/ascii_widget_eos.py) to your eos shortcuts 
